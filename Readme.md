@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/LineFullStackedChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/LineFullStackedChart/MainPage.xaml))
+<!-- default file list end -->
 # How to create a 2D Full-Stacked Line chart
 
 
